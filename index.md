@@ -1,8 +1,7 @@
----
-title: UPF PhD Student Seminar
----
+# GPEFM PhD Student Seminar
 
 __Organizers:__ Katharina Janezic and Lukas Hoesch
+
 __Time and place:__ Thursdays, 5pm in room TBA
 
 To reserve a slot, please send an email to katharina.janezic[at]upf.edu.
